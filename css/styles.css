@@ -1,0 +1,36 @@
+
+       body {
+            
+            background-color: #EAF6F6;
+
+        } 
+        
+        hr {
+/* 
+            background-color:white; */
+            /* border-style: dotted; */
+           border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 5px;
+            /* height: 2px; */
+            width: 5%;
+
+        }
+         h2{
+            /* background-color: pink; */
+            color: #66BFBF;
+
+        }
+        h3{
+              
+            color: #66BFBF;
+
+        }
+        /* div {
+            background-color: blue;
+            color: white;
+          } */
+          img{
+            border-radius: 100%;
+          }
